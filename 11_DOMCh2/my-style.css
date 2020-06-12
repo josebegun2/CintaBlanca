@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+
+body {
+    background-image: url("https://previews.123rf.com/images/romastudio/romastudio1603/romastudio160300245/54088739-healthy-eating-background-studio-photo-of-different-fruits-and-vegetables-on-white-wooden-table-high.jpg");
+    background-color: #cccccc;
+   }
+
+.Form{
+    font-family: 'Oswald';
+    margin-top: 50px;
+    align-items: center;
+    justify-content: space-around;
+}
+
+
+.Tarjeta {
+    border: black solid 2px;
+    background-color: white;
+    width: 400px;
+    height: 250px;
+    margin-top: 50px;
+    margin-left: 50px;
+    font-family: 'Oswald';
+}
+
+.none{
+    display: none;
+}
+
+.my-img{
+    width: 70px;
+}
+
+.info{
+    margin-left: 35px;
+}

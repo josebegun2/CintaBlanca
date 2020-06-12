@@ -1,0 +1,33 @@
+.my-color{
+    background-color: darkblue;
+    border: transparent;
+}
+
+.my-color:hover{
+    background-color: blue;
+}
+
+.my-image{
+    height: 350px;
+}
+
+.padre{
+    height: 400px;
+}
+
+.my-title{
+    margin-left: 500px;
+}
+
+.boxes{
+    width: 50%;
+}
+
+.footer{
+    background-color: #EBEBEB;
+}
+
+.logo{
+    height: 25px;
+    margin-right: 10px;
+}

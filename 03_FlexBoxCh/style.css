@@ -1,0 +1,103 @@
+
+.abuelo {
+    width: 1500px;
+    height: 1200px;
+    border: 2px black solid;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+
+
+.padre1 {
+    width: 600px;
+    height: 1000px;
+    border: 2px black solid;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: column;
+}
+
+.p1hijo1 {
+    width: 25%;
+    height: 25%;
+    border: 2px black solid;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+
+.p1hijo2 {
+    width: 25%;
+    height: 25%;
+    border: 2px black solid;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: column;
+}
+.p1hijo3 {
+    width: 25%;
+    height: 25%;
+    border: 2px black solid;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+
+.p1nieto {
+    width: 25%;
+    height: 25%;
+    border: 2px black solid;
+}
+
+.padre2 {
+    width: 600px;
+    height: 1000px;
+    border: 2px black solid;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+
+.p2hijo1 {
+    width: 25%;
+    height: 25%;
+    border: 2px black solid;
+    display: flex;
+    align-items: flex;
+    justify-content: space-around
+    flex-direction: column;
+    
+}
+
+.p2hijo2 {
+    width: 25%;
+    height: 25%;
+    border: 2px black solid;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+.p2hijo3 {
+    width: 25%;
+    height: 25%;
+    border: 2px black solid;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: column;
+    
+}
+
+.p2nieto {
+    width: 25%;
+    height: 25%;
+    border: 2px black solid;
+}

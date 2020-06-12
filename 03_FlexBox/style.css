@@ -1,0 +1,20 @@
+.padre{
+    width: 600px;
+    height: 500px;
+    border: solid 2px black;
+    /* decimos que usaremos flexblox */
+    display: flex;
+    /* mueve mis elementos horizontalmente */
+    justify-content: space-around;
+    /* mueve mis elementos verticalemnte */
+    align-items: center;
+    /* invertir los ejes */
+    flex-direction: column;
+    align-items: ;
+}
+
+.hijo   {
+    width: 150px;
+    height: 150px;
+    border: 2px solid green;
+}

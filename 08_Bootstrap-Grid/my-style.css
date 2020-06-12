@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Metal+Mania&family=Oswald:wght@300&display=swap');
+
+h1{
+    font-family: 'Oswald', bold; 
+}
+
+.my-container{
+    height: 1000px
+}
+
+.my-row{
+    height: 80%;
+}
+
+.my-icon{
+    color: purple;
+    font-size: 50px;
+}

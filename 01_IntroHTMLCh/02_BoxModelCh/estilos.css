@@ -1,0 +1,35 @@
+
+a {
+    text-decoration: none; 
+        color: black;
+        
+} 
+
+
+.topright  {
+        border: 2px black solid;
+        text-align: right;
+        font-family: sans-serif;
+}
+
+
+.logo{
+    border: 2px black solid;
+    margin: 100px 800px 0 800px;  ;
+}
+
+.search{
+    border: 2px black solid;
+    margin: 30px 850px 0 850px;  ;
+}
+
+.botones{
+    border: 2px black solid;
+    margin: 30px 800px 0 800px;  
+    font-family: sans-serif;
+}
+
+.abajo{
+    border: 2px black solid;
+    font-family: sans-serif;
+}
