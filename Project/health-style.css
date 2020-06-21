@@ -1,0 +1,118 @@
+
+body {
+    background-image: url(https://daily.jstor.org/wp-content/uploads/2017/11/colorful_pills_1050x700.jpg);
+    background-size: cover;
+    font-family: Montserrat;
+  }
+  
+  .mainbox {
+    width: 95%;
+    margin-top: 20px;
+    margin-left: 3%;
+    margin-right: 3%;
+    background-color: rgba(0, 0, 0, 0.8);
+    border-radius: 30px;
+  }
+  
+  .titlemainbox {
+    animation: animationOpacity 0.5s forwards 0s linear;
+    margin-top: 20px;
+    margin-left: 5%;
+    margin-right: 5%;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    color: rgba(255, 255, 255, 0.8);
+  }
+  
+  .subtitlemainbox {
+      animation: animationOpacity 1.5s forwards 0s linear;
+      margin-top: 20px;
+      margin-left: 7.5%;
+      margin-right: 5%;
+      font-size: 30px;
+      color: rgba(255, 255, 255, 0.8);
+    }
+  
+  .Act {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    animation: animationOpacity 4.5s forwards 0s linear;
+    background-color: #007bff;
+    outline: none;
+    color: rgba(255, 255, 255, 0.8);
+    border-radius: 40px;
+    width: 300px;
+    font-size: 30px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+  }
+  .logo {
+    height: 25px;
+    margin-right: 10px;
+  }
+  
+  .center-items {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  @keyframes animationOpacity {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      transform: rotate(xx);
+      opacity: 1;
+    }
+  }
+  
+  .card {
+    background-color: rgba(0, 0, 0, 0.9);
+    border: none;
+    height: 250px;
+    width: 95%;
+    display: flex;
+    justify-content: center;
+    margin: 3% 1% 6% 1%;
+    border-radius: 30px;
+    color: rgba(255, 255, 255, 0.795);
+  }
+  
+.card-img{
+    height: 95%;
+}
+
+
+.card1{
+    animation: animationOpacity 2s forwards 0s linear; 
+}
+.card2{
+    animation: animationOpacity 2.5s forwards 0s linear; 
+}
+.card3{
+    animation: animationOpacity 3s forwards 0s linear; 
+}
+.card4{
+    animation: animationOpacity 3.5s forwards 0s linear; 
+}
+.card5{
+    animation: animationOpacity 4s forwards 0s linear; 
+}
+.card6{
+    animation: animationOpacity 4.5s forwards 0s linear; 
+}
+
+
+
+
+.normal-text{
+    animation: animationOpacity 1.5s forwards 0s linear;
+    margin-top: 20px;
+    margin-left: 7.5%;
+    margin-right: 5%;
+    margin-bottom: 20px;
+    font-size: 15px;
+    color: rgba(255, 255, 255, 0.8);
+}
